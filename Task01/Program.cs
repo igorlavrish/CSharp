@@ -17,7 +17,7 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 
 if (number1 == number2*number2)
 {
-    Console.WriteLine($"{number1} не является квадратом {number2}");
+    Console.WriteLine($"{number1} является квадратом {number2}");
 }
 else
 {
