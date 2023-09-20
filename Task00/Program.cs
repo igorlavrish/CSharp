@@ -16,13 +16,3 @@ int square = number * number;
 //Console.WriteLine(number + " -> " + square);
 
 Console.WriteLine($"{number} -> {square}");
-
-if (weekDay == 1)
-{
-    Console.WriteLine($"{weekDay} -> "понедельник"");
-}
-
-else 
-{
-    Console.WriteLine("нет");
-}
